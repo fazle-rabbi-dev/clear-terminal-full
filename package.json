@@ -1,0 +1,16 @@
+{
+  "name": "clear-terminal-full",
+  "version": "1.0.0",
+  "description": "A tiny npm module to clear the full terminal using the shell command 'clear'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clear","terminal","clear-terminal","nodejs-clear","clear-screen","clear-terminal-full"
+  ],
+  "author": "Fazle Rabbi",
+  "license": "MIT",
+  "homepage": "https://github.com/fh-rabbi/clear-terminal-full",
+  "repository": "https://github.com/fh-rabbi/clear-terminal-full"
+}
